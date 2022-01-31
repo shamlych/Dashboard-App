@@ -1,0 +1,50 @@
+.payment {
+    flex: 4;
+    border: 1px solid #fff;
+    border-radius: 5%;
+    background: #fff;
+    margin: 0 15px;
+    padding: 10px;
+}
+.AlignBrands {
+    display: flex;
+    border: 1px solid #fff;
+    background-color: honeydew;
+    border-radius: 3%;
+    font-size: 100px;
+    margin: 20px;
+    padding: 20px;
+}
+.paypaal {
+  color: #253b80;
+  border: 1px solid #fff;
+  background: #fff;
+  margin-right: 10%;
+}
+.mastercard {
+  color: #f50808;
+  border: 1px solid #fff;
+  background: #fff;
+  margin-right: 10%;
+}
+.amazonpay {
+   color: #ff9900;
+   border: 1px solid #fff;
+   background: #fff;
+   margin-right: 10%;
+}
+.applepay {    
+   color: #979797;
+   border: 1px solid #fff;
+   background: #fff;
+   margin-right: 10%;
+}
+.button-details {
+  color: cornflowerblue;
+  background-color: white;
+  border-radius: 10px;
+  border: 1px solid cornflowerblue;
+}
+.dotSymbol {
+  font-size: 15px;
+}
